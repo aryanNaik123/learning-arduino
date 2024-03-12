@@ -10,7 +10,7 @@ By changing the signal from a logical High and Low with a delay between both, it
 
 Changing the delay you can make it blink faster or slower.
 
-# [02-lcd](02-lcd/lcd.ino)
+# [02-lcd](02-LCD/lcd.ino)
 
 In this section I wired up the LCD1602 module to the Uno.
 
