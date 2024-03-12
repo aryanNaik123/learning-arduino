@@ -18,4 +18,4 @@ Aided by a pentiometer allowing me to change the contrast on the display.
 
 With the starter code I was able to display a Hello World message and the number of seconds that passed since the display was turned on.
 
-I also played with displaying date and time on the display, but since I lack an RTC, I was able to create only rudimentary code that allowed the click to start ticking from a set point rather than a true real time clock. You can see this attempt here: [rtc.ino](02-lcd/rtc.ino). In the future I might attempt to use [CompileTime](https://github.com/ripred/CompileTime), or get an RTC module.
+I also played with displaying date and time on the display, but since I lack an RTC, I was able to create only rudimentary code that allowed the click to start ticking from a set point rather than a true real time clock. You can see this attempt here: [rtc.ino](02-LCD/rtc.ino). In the future I might attempt to use [CompileTime](https://github.com/ripred/CompileTime), or get an RTC module.
